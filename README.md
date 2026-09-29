@@ -1,6 +1,6 @@
 # Statistics dashboard
 
-Bilingual (EN/FR) dashboard built from **STATISTICS OF RWANDA**, pages 10, 11, 12.
+Bilingual (EN/FR) dashboard built from **0.1. Mid-Year Total Population (in Million) | Population totale en milieu d'année (en mill**, pages 9, 10, 13.
 
 Built during the STG17 technical workshop *Emerging Issues, Emerging Practice*
 (African Development Bank / AU STATAFRIC), lab 02 — from a statistical document
@@ -33,9 +33,9 @@ Results of the run that produced this page:
 
 | Outcome | Cells |
 |---|---|
-| verified | 275 |
-| published but flagged | 133 |
-| discarded | 0 |
+| verified | 84 |
+| published but flagged | 82 |
+| discarded | 10 |
 
 ## Reproducing this
 
